@@ -12,13 +12,13 @@
 
 <br>
 
-### Mechanism of crawler
+### 📌 Mechanism of crawler
 -----------------
-##### URL input ➡️ Enter widget page ➡️ Crawling ➡️ Convert to text file  
+###### 📌 URL input ➡️ Enter widget page ➡️ Crawling ➡️ Convert to text file  
 
 <br>
 
-### Target shopping mall list
+### 📌 Target shopping mall list
 -----------------
 - [x] [Naning9](https://www.naning9.com/)
 - [x] [Flyday](https://www.flyday.co.kr/)
@@ -26,7 +26,7 @@
 
 <br>
 
-### Development stack
+### 📌 Development stack
 -----------------
 + Language : Python
 + Package : BeutifulSoup
