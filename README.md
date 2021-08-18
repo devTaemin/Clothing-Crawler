@@ -1,5 +1,11 @@
 # 🔎 Clothing-Crawler
 
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevTaemin%2FClothing-Crawler&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 + #### This repository contains crawlers that scrap the clothing information including comments, rate, pictures, etc...
 
 + #### I made these crawlers with the purpose of <strong>analyzing comments</strong> by extracting comments on major shopping mall and product's information automatically from on-line shopping mall.
