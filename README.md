@@ -26,14 +26,14 @@
 
 <br>
 
-### 📌 Development stack
+### ⚙️ Development stack
 -----------------
 + Language : Python
 + Package : BeutifulSoup
 
 <br>
 
-###  📜 Related paper
+### 📜 Related paper
 -----------------
 - [x]  [Analysis of comments and review for accurate user evaluation of clothing online shopping mall product](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301977)
 
